@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="copyright">Created by Debajit Deb</string>
+    <string name="coal_Img">Coal Image</string>
 </resources>
